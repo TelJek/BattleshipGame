@@ -1,6 +1,3 @@
-# cd0008-2021f
+# Battleship game on C# and ASP.NET. 
 
-Programming in C#
-Artjom Ljubozenko
-Arljub
-210740IADB
+Can be played locally or in web. Supports multiplayer and more.
